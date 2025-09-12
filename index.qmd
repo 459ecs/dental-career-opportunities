@@ -68,12 +68,12 @@ Rest assured that all positions are open and we are actively seeking candidates 
    *Our team values honesty and transparency and encourages all applicants to share their experiences fully. Please do not gloss over any information, especially the negative aspects, as we may conduct additional reference checks on your past employment history.*
    :::
    
-4. You will receive a CEFR score (from A1 to C2) for your speaking ability.
+4. You will receive an IELTS Speaking Level score (from 0 to 9) for your speaking ability.
 5. Share your speaking assessment result link with us.
 :::
 
 ## Assessment Requirements
-- A minimum score of **C2** in *Pronunciation* or *Fluency* is required
+- A minimum score of **Level 9** in *IELTS Speaking* is required
 - A clear North American accent and proper intonation are critical factors
 - Children aged 0-18 are our primary patient population, so we prioritize an approachable tone
 
@@ -89,7 +89,7 @@ DO NOT SHARE the certificate or final score - we need the URL link to review you
 
 **Correct Report Link Format:**  
 You can copy the link from the browser address bar when you're on the assessment report page. Your shared link should look like this:  
-`https://app.smalltalk2.me/shared/cub84o4b60ag0i2e2v71`, where the `cub84o4b60ag0i2e2v71` part is a unique report ID string, with the rest of the URL mixed in SmallTalk2Me's tracking parameters, which is not needed for the assessment report but you can include them as the whole URL to share with us any way you like as long as the prior part with the unique report ID string is present.
+`https://app.smalltalk2.me/reports/m8v5x3k9qqt4rwwxnb21`, where the `m8v5x3k9qqt4rwwxnb21` part is a unique report ID string. You can copy the link from the browser address bar when you're on the assessment report page.
 
 :::
 
@@ -108,7 +108,7 @@ Send to dmd0876@gmail.com:
 
 1. Your resume
 2. At least two (2) professional references that we can contact immediately
-3. SmallTalk2Me [IELTS Speaking Level Test](https://app.smalltalk2.me/ielts) assessment result link (**C2** on *Pronunciation* or *Fluency*)
+3. SmallTalk2Me [IELTS Speaking Level Test](https://app.smalltalk2.me/ielts) assessment result link (**Level 9** in *IELTS Speaking*)
 4. Explain your preferred work schedule
 5. Position title in email subject
 :::
