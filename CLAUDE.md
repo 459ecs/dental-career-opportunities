@@ -67,7 +67,7 @@ grep -r "Level [0-9]" *.qmd  # Find current requirements
 ### `_quarto.yml`
 - Website configuration and navigation structure
 - Theme: Cosmo with custom CSS
-- Render exclusions for internal documentation
+- **Critical**: Render exclusions prevent internal docs from public site
 - Must be updated when adding new position pages to navbar menu
 
 ### `_publish.yml` 
@@ -110,3 +110,19 @@ Each position page follows a consistent template:
 - Build cache optimizes render times for frequently updated content
 - Live site URL: https://pedodontist.quarto.pub/dental-career-opportunities/
 - Publishing workflow includes comprehensive error handling and notification
+
+## Internal Documentation Security
+
+**CRITICAL**: All internal development files must be excluded from public site via `_quarto.yml` render exclusions:
+- `CLAUDE.md`, `README.md` - Development documentation  
+- `project-proposal.qmd` - Internal planning documents
+- `docs/` - Development workflows and guides
+- `etiquettes/` - Internal professional standards
+- Any other non-job-applicant content
+
+**Verification**: After render, only these files should exist in `_site/`:
+- `index.html` - Main career portal
+- `certified_dental_assistant.html`
+- `procedural_sedation_nurse.html` 
+- `treatment_coordinator.html`
+- Supporting assets (CSS, JS, images)
