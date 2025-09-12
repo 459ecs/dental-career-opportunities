@@ -25,26 +25,54 @@ Click on any position above to view detailed information about:
 - Full-time and part-time options
 :::
 
-# Application Process
+# Why Choose Our Team? {.unnumbered}
 
-Rest assured that all positions are open and we are actively seeking candidates for each role as long as they're still posted on this page. We will take them down immediately if they're no longer available.
+::: {.callout-tip}
+## Exceptional Benefits & Work Environment
 
-## Step 1: Initial Contact {.numbered}
- 
-- Discuss your concerns for the position(s) that you're interested in.
-- Discuss alternative interview arrangements if you believe your qualifications exceed the requirements of the standard assessment starting from Step 2 below. For example, if you believe you have a high level of English proficiency, you may request to skip the English Speaking Assessment.
-- Feel free to skip Step 1 and go directly to Step 2 if you don't have any concerns.
+- **Flexible Scheduling**: Full-time or Part-time positions with 2-3 days per week
+- **Work-Life Balance**: No evening shifts, structured schedule supporting personal time
+- **Professional Growth**: Comprehensive development programs and ongoing educational opportunities
+- **Competitive Compensation**: Salary that recognizes your specialized skills and dedication
+- **Supportive Environment**: Collaborative team culture where your contributions are valued
+- **Modern Facilities**: State-of-the-art clinics in Vancouver and New Westminster
+- **Flexible Benefits**: Customizable package tailored to your individual needs
+:::
+
+### Our Commitment to Excellence
+
+Join a practice with nearly 20 years of specialized pediatric care experience. We're committed to:
+
+- **Patient-Centered Care Excellence** - Making a real difference in children's lives
+- **Innovation & Learning** - Staying at the forefront of pediatric dental care
+- **Team Collaboration** - Building a supportive, growth-oriented environment
+- **Quality Standards** - Maintaining the highest professional standards while supporting your success
+
+# Ready to Join Our Team? {.unnumbered}
 
 ::: {.callout-note}
-## Contact Ricky Chan (Recruitment Coordinator)
+## All Positions Currently Available
+We are actively seeking qualified candidates for all posted positions. Listings are removed immediately when filled.
+:::
+
+## Getting Started {.unnumbered}
+
+**Ready to apply?** Most candidates can proceed directly to our **English Assessment** below.
+
+**Have questions first?** Contact our Recruitment Coordinator:
+
+::: {.callout-note}
+## Ricky Chan - Recruitment Coordinator
 - Phone/Text: 604-300-8878
 - Email: dmd0876@gmail.com
 - Indeed.com Messages
+
+*Experienced professionals may discuss alternative arrangements or express concerns about the assessment process.*
 :::
 
-## Step 2: Required Assessments {.numbered}
+## Assessment Phase {.unnumbered}
 
-### English Speaking Assessment {.unnumbered}
+### English Communication Assessment {.unnumbered}
 
 ::: {.callout-info}
 ## How to Complete Your Speaking Assessment
@@ -72,10 +100,10 @@ Rest assured that all positions are open and we are actively seeking candidates 
 5. Share your speaking assessment result link with us.
 :::
 
-## Assessment Requirements
-- A minimum score of **Level 9** in *IELTS Speaking* is required
-- A clear North American accent and proper intonation are critical factors
-- Children aged 0-18 are our primary patient population, so we prioritize an approachable tone
+## Excellence Standards for Our Exclusive Team
+- **Level 7.0** in *IELTS Speaking* - demonstrating exceptional communication skills valued in pediatric care
+- Clear North American accent and proper intonation - ensuring optimal patient and family connections
+- Approachable, child-friendly communication style - reflecting our specialized focus on ages 0-18
 
 ::: {.callout-warning}
 ## Important Note About Assessment Report
@@ -100,7 +128,7 @@ Don't feel discouraged if you cannot pass the first time. We encourage you to wo
 
 Share your speaking assessment result link with Ricky (Recruitment Coordinator)
 
-## Step 3: Application Submission {.numbered}
+## Submit Your Application {.unnumbered}
 
 ::: {.callout-tip}
 ## Submit Your Application
@@ -108,12 +136,12 @@ Send to dmd0876@gmail.com:
 
 1. Your resume
 2. At least two (2) professional references that we can contact immediately
-3. SmallTalk2Me [IELTS Speaking Level Test](https://app.smalltalk2.me/ielts) assessment result link (**Level 9** in *IELTS Speaking*)
+3. SmallTalk2Me [IELTS Speaking Level Test](https://app.smalltalk2.me/ielts) assessment result link (**Level 7.0** in *IELTS Speaking*)
 4. Explain your preferred work schedule
 5. Position title in email subject
 :::
 
-## Step 4: Knowledge Requirements {.numbered}
+## Role-Specific Knowledge Assessment {.unnumbered}
 
 ### Position-Specific Assessments {.unnumbered}
 
@@ -126,32 +154,29 @@ Choose your position to view the required assessments:
 - [Treatment Coordinator Knowledge Assessment](treatment_coordinator.qmd#knowledge-assessment)
 :::
 
-::: {.callout-warning}
-## Important Note About Knowledge Requirements
-- These assessments outline the fundamental knowledge required for the position
-- No on-the-job training will be provided for these basic requirements
-- You must be fully comfortable with all listed knowledge areas
-- While it's an open-book assessment that can be taken multiple times
-- A perfect score is required before starting the position
+::: {.callout-tip}
+## Join Our Knowledge Excellence Initiative
+- These assessments ensure you'll thrive in our advanced practice environment
+- Open-book format allows you to demonstrate mastery at your own pace
+- Multiple attempts available - we support your success
+- Perfect scores reflect the exceptional standards that make our practice renowned
+- Comprehensive knowledge ensures immediate contribution to our specialized team
 :::
 
-## Step 5: Review Our Practice Philosophy {.numbered}
+## Understanding Our Practice {.unnumbered}
 
 ### Work Environment {.unnumbered}
 
-::: {.callout-tip}
-## What We Offer
+::: {.callout-note}
+## Schedule Details
 
-- Flexible work arrangements (Full-time or Part-time available)
-- Competitive compensation package
-- Professional development opportunities
-- Supportive team environment
-- Work-life balance with no evening shifts
-- Our typical work schedule averages 2-3 days per week. From January to June 2025, these days will primarily be on Thursdays and Fridays at our Vancouver location. From July to December 2025, the 2-3 days will be split between our Vancouver and New Westminster locations. This may include options such as Tuesdays in New Westminster and Thursdays in Vancouver, or alternating weekly schedules, such as Tuesdays and Wednesdays in New Westminster during the first week of the month, followed by Thursdays and Fridays in Vancouver during the second week of the month.
+- **2025 Q1-Q2**: Primarily Thursdays and Fridays at our Vancouver location
+- **2025 Q3-Q4**: Split between Vancouver and New Westminster locations
+- **Flexibility**: Various scheduling options including alternating weekly schedules
 
 ### Clinic Locations
-- 1233 West Broadway, Vancouver
-- 459 East Columbia Street, New Westminster (grand opening in March or April 2025)
+- **Vancouver**: 1233 West Broadway
+- **New Westminster**: 459 East Columbia Street (opening March-April 2025)
 :::
 
 ### Our Values and Innovation {.unnumbered}
@@ -164,11 +189,11 @@ We are committed to:
 - Supportive work culture
 - Quality pediatric dental services
 
-::: {.callout-important}
-## Patient Care Priorities Pledge
+::: {.callout-tip}
+## Our Distinguished Practice Philosophy
 
-### Our Mandate for Ethical Decision-Making
-When facing conflicting priorities, we adhere to this strict hierarchy:
+### Excellence in Ethical Decision-Making
+Our reputation for exceptional care stems from our unwavering commitment to this proven hierarchy:
 
 1. **Child's Best Interest First**  
 
@@ -188,14 +213,14 @@ When facing conflicting priorities, we adhere to this strict hierarchy:
    - Authentic patient experiences over curated content
    - Earn reputation through clinical excellence
 
-### Our Case Acceptance Policy
-We will respectfully decline cases where:
+### Our Professional Excellence Standards
+Our selective approach ensures optimal outcomes by:
 
-- Parental demands conflict with professional judgment 
-- Social media considerations might influence care decisions
-- We cannot uphold all three priorities harmoniously
+- Maintaining clinical integrity above external pressures
+- Prioritizing authentic patient care over social considerations
+- Ensuring harmony between all care priorities
 
-*Applicants must be comfortable explaining this priority structure to parents and standing by these principles in all clinical decisions.*
+*Join professionals who confidently communicate these evidence-based principles and uphold clinical excellence in every decision.*
 :::
 
 ::: {.callout-important}
@@ -239,7 +264,7 @@ This innovative approach helps us:
 Please review the above information carefully. Understanding our practice philosophy, values, and unique approach to knowledge sharing is essential for all team members. You will be expected to actively participate in and contribute to these initiatives.
 :::
 
-## Step 6: Schedule Your Interview {.numbered}
+## Interview Scheduling {.unnumbered}
 
 ::: {.column-body}
 <!-- Calendly link widget begin -->
@@ -315,7 +340,7 @@ Due to limited practical evaluation time slots, we strongly encourage candidates
 :::
 :::
 
-## Step 7: Practical Evaluation {.numbered}
+## Final Assessment {.unnumbered}
 
 ### Session Availability
 
