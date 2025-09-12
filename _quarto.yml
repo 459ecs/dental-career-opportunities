@@ -5,6 +5,13 @@ project:
     - "*.qmd"
     - "!etiquettes/"
     - "!etiquettes/**"
+    - "!project-proposal.qmd"
+    - "!docs/"
+    - "!docs/**"
+    - "!dental-career-opportunities-site/"
+    - "!dental-career-opportunities-site/**"
+    - "!CLAUDE.md"
+    - "!README.md"
 
 website:
   title: "Dental Career Opportunities"
