@@ -1,0 +1,240 @@
+---
+title: "Git Workflow Guide for Dental Careers Site"
+format: html
+toc: true
+author: "Ricky <dmd0876@gmail.com>"
+date: last-modified
+---
+
+## Overview
+
+This document outlines our standardized git workflow for managing the dental careers website (https://github.com/459ecs/quarto_pub), including commit message formats, publishing procedures, and repository management.
+
+## Repository Information
+
+### Main Repository
+- URL: https://github.com/459ecs/quarto_pub
+- Published Site: https://pedodontist.quarto.pub/dental-career-opportunities
+- Access: Private repository
+- Branch: main
+
+## Commit Message Structure
+
+### Format Template
+```bash
+<type>(<scope>): <subject> - <description> | <metadata>
+
+# Example:
+feat(job-ads): update break policy to comply with BC labor code - Update break policy to accurately reflect BC Employment Standards Act requirements | Committed File(s): certified_dental_assistant.qmd | Branch: main | Reviewed-by: Ricky | Refs: EI-1009
+```
+
+### Types
+- `feat`: New feature or significant enhancement
+- `fix`: Bug fix
+- `docs`: Documentation changes
+- `style`: Formatting, missing semi-colons, etc.
+- `refactor`: Code refactoring
+- `test`: Adding tests
+- `chore`: Maintenance tasks
+- `content`: Content updates
+- `cleanup`: Code cleanup or removal
+
+### Scopes
+- `job-ads`: Job listing related changes
+- `site`: Website structure changes
+- `config`: Configuration file changes
+- `style`: CSS and styling changes
+- `docs`: Documentation updates
+
+### Metadata Fields
+- `Committed File(s)`: List of modified files
+- `Branch`: Branch name
+- `Reviewed-by`: Reviewer's name (use "Ricky")
+- `Refs`: Reference ticket or issue number
+
+## Git Configuration
+
+### Setting Up Git Identity
+```bash
+# Configure your Git identity
+git config user.name "Ricky"
+git config user.email "dmd0876@gmail.com"
+
+# Verify configuration
+git config --list | grep "user."
+
+# Configure repository
+git clone git@github.com-459ecs:459ecs/quarto_pub.git
+cd quarto_pub
+```
+
+## Git Commands Reference
+
+### Status Check
+```bash
+# Check current status
+git status
+
+# View latest commit
+git log -1
+```
+
+### Staging and Committing
+```bash
+# Stage specific files
+git add file1.qmd file2.qmd
+
+# Stage all changes
+git add .
+
+# Commit with message
+git commit -m "type(scope): subject - description | Committed File(s): file1.qmd | Branch: main | Reviewed-by: Ricky | Refs: TICKET"
+```
+
+### Pushing Changes
+```bash
+# Push to remote
+git push origin main
+
+# Force push (use with caution)
+git push --force origin main
+```
+
+### Amending Commits
+```bash
+# Amend last commit message
+git commit --amend -m "new message"
+
+# Push amended commit
+git push --force origin main
+```
+
+## Publishing Workflow
+
+### 1. Pre-Publishing Checklist
+- Ensure all changes are committed
+- Check file formatting
+- Verify content updates
+- Review site navigation
+
+### 2. GitHub Push
+```bash
+# Check status
+git status
+
+# Stage changes
+git add .
+
+# Commit with descriptive message
+git commit -m "type(scope): subject - description | Committed File(s): files | Branch: main | Reviewed-by: Ricky | Refs: TICKET"
+
+# Push to GitHub
+git push origin main
+```
+
+### 3. Quarto Publishing
+```bash
+# Publish to Quarto Pub
+quarto publish quarto-pub
+```
+
+### 4. Verification
+- Check GitHub repository for successful push
+- Verify Quarto Pub site updates
+- Test navigation and content
+
+## Repository Management
+
+### Cloning the Repository
+```bash
+# Clone the repository
+git clone git@github.com-459ecs:459ecs/quarto_pub.git
+cd quarto_pub
+
+# Verify remote
+git remote -v
+```
+
+### Creating New Repository
+```bash
+# Create new private repo
+gh repo create 459ecs/repo_name --private --description "Description"
+
+# Update remote
+git remote remove origin
+git remote add origin git@github.com-459ecs:459ecs/repo_name.git
+
+# Push existing content
+git push -u origin main
+```
+
+### Remote Management
+```bash
+# View current remotes
+git remote -v
+
+# Update remote URL if needed
+git remote set-url origin git@github.com-459ecs:459ecs/quarto_pub.git
+
+# Add alternative remote
+git remote add upstream git@github.com-459ecs:459ecs/quarto_pub.git
+```
+
+### Deleting Repository
+```bash
+# Ensure proper permissions
+gh auth refresh -h github.com -s delete_repo
+
+# Delete repository
+gh repo delete org/repo_name --yes
+```
+
+## Common Issues and Solutions
+
+### Permission Issues
+If encountering GitHub permission issues:
+```bash
+gh auth refresh -h github.com -s delete_repo
+```
+
+### Remote Issues
+If remote URL needs updating:
+```bash
+git remote set-url origin git@github.com-459ecs:459ecs/repo_name.git
+```
+
+### SSH Configuration
+Ensure SSH config has the correct settings:
+```bash
+Host github.com-459ecs
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519_459ecs
+    IdentitiesOnly yes
+    AddKeysToAgent yes
+    UseKeychain yes
+```
+
+## Best Practices
+
+1. **Commit Messages**
+   - Use clear, descriptive messages
+   - Include all relevant metadata
+   - Reference related tickets/issues
+   - Always use "Ricky" as the reviewer
+
+2. **Code Review**
+   - Review changes before committing
+   - Verify file modifications
+   - Check for unintended changes
+
+3. **Publishing**
+   - Always push to GitHub first
+   - Verify GitHub push success
+   - Then publish to Quarto
+   - Verify published content
+
+4. **Repository Management**
+   - Keep repositories private
+   - Maintain clean commit history
+   - Regular backups of important content 

@@ -1,0 +1,350 @@
+---
+title: "Dental Career Opportunities"
+subtitle: "Join Our Specialized Pediatric Dental Care Team in Vancouver"
+---
+
+# Welcome to Our Dental Career Portal {.unnumbered}
+
+Dr. Phoebe Tsang and team have been providing specialized pediatric care tailored to individual patient needs for almost 20 years. We take pride in being oral health advocates for children aged 0-18.
+
+## Current Opportunities {.unnumbered #current-opportunities}
+
+We are seeking talented professionals for the following positions:
+
+- [Certified Dental Assistant](certified_dental_assistant.qmd)
+- [Procedural Sedation Nurse](procedural_sedation_nurse.qmd)
+- [Treatment Coordinator](treatment_coordinator.qmd)
+
+::: {.callout-tip}
+## Learn More
+Click on any position above to view detailed information about:
+
+- Role responsibilities and expectations
+- Required qualifications and assessments
+- Work environment and culture
+- Full-time and part-time options
+:::
+
+# Application Process
+
+Rest assured that all positions are open and we are actively seeking candidates for each role as long as they're still posted on this page. We will take them down immediately if they're no longer available.
+
+## Step 1: Initial Contact {.numbered}
+ 
+- Discuss your concerns for the position(s) that you're interested in.
+- Discuss alternative interview arrangements if you believe your qualifications exceed the requirements of the standard assessment starting from Step 2 below. For example, if you believe you have a high level of English proficiency, you may request to skip the English Speaking Assessment.
+- Feel free to skip Step 1 and go directly to Step 2 if you don't have any concerns.
+
+::: {.callout-note}
+## Contact Ricky Chan (Recruitment Coordinator)
+- Phone/Text: 604-300-8878
+- Email: dmd0876@gmail.com
+- Indeed.com Messages
+:::
+
+## Step 2: Required Assessments {.numbered}
+
+### English Speaking Assessment {.unnumbered}
+
+::: {.callout-info}
+## How to Complete Your Speaking Assessment
+
+1. Visit [SmallTalk2Me](https://app.smalltalk2.me/){target="_blank"} and create a new account.
+2. After logging in, look for the **[IELTS Speaking Level Test](https://app.smalltalk2.me/ielts)** option.
+3. Complete the speaking test - you will be asked to:
+
+   - Speak into your microphone.
+   - Respond to prompts & answer questions verbally with:
+      - Clear and proper intonation with a North American accent.
+      - A friendly and cheerful tone of voice (**Watch examples of different tones of voice demonstrated by a pronunciation coach:** [https://www.youtube.com/watch?v=hPQyHXc1ksA](https://www.youtube.com/watch?v=hPQyHXc1ksA){target="_blank"}).
+   
+   ::: {.callout-warning title="Important Instruction"}
+   **Please ensure that during the very beginning of the SmallTalk2Me recording session, when asked "What's your name?", you do not only answer the question.** Take this opportunity to thoroughly respond to the following before pressing the next button:
+
+   - **Your short-term and long-term personal and professional goals.**
+   - **Why you believe you are a strong candidate for this position.**
+   - **Any other information that will help us understand your motivations and aspirations to apply for this position.**
+
+   *Our team values honesty and transparency and encourages all applicants to share their experiences fully. Please do not gloss over any information, especially the negative aspects, as we may conduct additional reference checks on your past employment history.*
+   :::
+   
+4. You will receive a CEFR score (from A1 to C2) for your speaking ability.
+5. Share your speaking assessment result link with us.
+:::
+
+## Assessment Requirements
+- A minimum score of **C2** in *Pronunciation* or *Fluency* is required
+- A clear North American accent and proper intonation are critical factors
+- Children aged 0-18 are our primary patient population, so we prioritize an approachable tone
+
+::: {.callout-warning}
+## Important Note About Assessment Report
+REMEMBER to share the URL link to your complete assessment report that includes:
+
+- All speaking matrices and detailed scores
+- Full performance breakdown across all metrics
+- Complete evaluation data
+
+DO NOT SHARE the certificate or final score - we need the URL link to review your detailed speaking performance across all evaluation matrices.
+
+**Correct Report Link Format:**  
+You can copy the link from the browser address bar when you're on the assessment report page. Your shared link should look like this:  
+`https://app.smalltalk2.me/shared/cub84o4b60ag0i2e2v71`, where the `cub84o4b60ag0i2e2v71` part is a unique report ID string, with the rest of the URL mixed in SmallTalk2Me's tracking parameters, which is not needed for the assessment report but you can include them as the whole URL to share with us any way you like as long as the prior part with the unique report ID string is present.
+
+:::
+
+::: {.callout-note}
+## Note
+Don't feel discouraged if you cannot pass the first time. We encourage you to work on improving your speaking skills and reapplying in the future if the position is still open. Wishing you the best of luck!
+:::
+
+Share your speaking assessment result link with Ricky (Recruitment Coordinator)
+
+## Step 3: Application Submission {.numbered}
+
+::: {.callout-tip}
+## Submit Your Application
+Send to dmd0876@gmail.com:
+
+1. Your resume
+2. At least two (2) professional references that we can contact immediately
+3. SmallTalk2Me [IELTS Speaking Level Test](https://app.smalltalk2.me/ielts) assessment result link (**C2** on *Pronunciation* or *Fluency*)
+4. Explain your preferred work schedule
+5. Position title in email subject
+:::
+
+## Step 4: Knowledge Requirements {.numbered}
+
+### Position-Specific Assessments {.unnumbered}
+
+::: {.callout-important}
+## Required Knowledge Assessments
+Choose your position to view the required assessments:
+
+- [Certified Dental Assistant Knowledge Assessment](certified_dental_assistant.qmd#knowledge-assessment)
+- [Procedural Sedation Nurse Knowledge Assessment](procedural_sedation_nurse.qmd#knowledge-assessment)
+- [Treatment Coordinator Knowledge Assessment](treatment_coordinator.qmd#knowledge-assessment)
+:::
+
+::: {.callout-warning}
+## Important Note About Knowledge Requirements
+- These assessments outline the fundamental knowledge required for the position
+- No on-the-job training will be provided for these basic requirements
+- You must be fully comfortable with all listed knowledge areas
+- While it's an open-book assessment that can be taken multiple times
+- A perfect score is required before starting the position
+:::
+
+## Step 5: Review Our Practice Philosophy {.numbered}
+
+### Work Environment {.unnumbered}
+
+::: {.callout-tip}
+## What We Offer
+
+- Flexible work arrangements (Full-time or Part-time available)
+- Competitive compensation package
+- Professional development opportunities
+- Supportive team environment
+- Work-life balance with no evening shifts
+- Our typical work schedule averages 2-3 days per week. From January to June 2025, these days will primarily be on Thursdays and Fridays at our Vancouver location. From July to December 2025, the 2-3 days will be split between our Vancouver and New Westminster locations. This may include options such as Tuesdays in New Westminster and Thursdays in Vancouver, or alternating weekly schedules, such as Tuesdays and Wednesdays in New Westminster during the first week of the month, followed by Thursdays and Fridays in Vancouver during the second week of the month.
+
+### Clinic Locations
+- 1233 West Broadway, Vancouver
+- 459 East Columbia Street, New Westminster (grand opening in March or April 2025)
+:::
+
+### Our Values and Innovation {.unnumbered}
+
+We are committed to:
+
+- Patient-centered care excellence
+- Continuous professional development
+- Collaborative team environment
+- Supportive work culture
+- Quality pediatric dental services
+
+::: {.callout-important}
+## Patient Care Priorities Pledge
+
+### Our Mandate for Ethical Decision-Making
+When facing conflicting priorities, we adhere to this strict hierarchy:
+
+1. **Child's Best Interest First**  
+
+   - Uncompromising commitment to evidence-based care
+   - Treatment plans based solely on dental needs
+   - Long-term oral health outcomes as primary driver
+
+2. **Parental Understanding & Collaboration**  
+
+   - Clear communication of treatment rationales
+   - Education about alternative approaches
+   - Building trust through transparency
+
+3. **Public Perception & Reviews**  
+
+   - Never compromise care quality for ratings
+   - Authentic patient experiences over curated content
+   - Earn reputation through clinical excellence
+
+### Our Case Acceptance Policy
+We will respectfully decline cases where:
+
+- Parental demands conflict with professional judgment 
+- Social media considerations might influence care decisions
+- We cannot uphold all three priorities harmoniously
+
+*Applicants must be comfortable explaining this priority structure to parents and standing by these principles in all clinical decisions.*
+:::
+
+::: {.callout-important}
+## Our Unique Approach: Visual Knowledge Sharing
+
+What sets us apart is our commitment to visual documentation and knowledge sharing. As part of our team, you'll contribute to:
+
+### Video Documentation Initiative
+
+- Capture essential clinical procedures and workflows
+- Document nuanced interactions and best practices
+- Record demonstrations of proper techniques and protocols
+- Preserve expert knowledge through visual medium
+
+### Knowledge Preservation Goals
+
+- Create a visual library of standardized procedures
+- Document subtle aspects of patient care that are difficult to convey in text
+- Capture the choreography of team coordination
+- Preserve experienced staff's intuitive knowledge
+
+### Technical Requirements
+
+- Basic video recording using mobile devices
+- Simple video editing skills
+- Organization of content for internal training
+- Ability to maintain professional standards in documentation
+
+This innovative approach helps us:
+
+- Standardize our high-quality care delivery
+- Enhance team training and coordination
+- Preserve and share best practices
+- Maintain consistent service excellence
+
+*Our commitment to visual documentation sets us apart in pediatric dental care, ensuring our high standards are maintained and shared effectively.*
+:::
+
+::: {.callout-important}
+## Before Proceeding
+Please review the above information carefully. Understanding our practice philosophy, values, and unique approach to knowledge sharing is essential for all team members. You will be expected to actively participate in and contribute to these initiatives.
+:::
+
+## Step 6: Schedule Your Interview {.numbered}
+
+::: {.column-body}
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<style>
+.interview-step {
+  margin: 15px 0;
+  padding: 12px 15px;
+  background: #f0f7ff;
+  border-left: 4px solid #3B82F6;
+  border-radius: 4px;
+}
+.step-label {
+  display: block;
+  font-size: 0.9em;
+  color: #4B5563;
+  margin-bottom: 8px;
+}
+.step-sequence {
+  display: block;
+  margin: 10px 0;
+  color: #4B5563;
+  font-size: 0.9em;
+}
+.step-sequence li {
+  margin-bottom: 4px;
+}
+.calendly-link {
+  display: inline-block;
+  color: #2563EB;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 6px 0;
+}
+.calendly-link:hover {
+  color: #1D4ED8;
+}
+.calendly-link::before {
+  content: "📅 ";
+}
+.step-note {
+  display: block;
+  font-size: 0.85em;
+  color: #6B7280;
+  margin-top: 6px;
+  font-style: italic;
+}
+</style>
+<div class="interview-step">
+  <span class="step-label">Schedule Your Interview:</span>
+  <ol class="step-sequence">
+    <li>Ensure you've passed the English Speaking Assessment</li>
+    <li>Confirm you've reviewed and are comfortable with all knowledge requirements</li>
+    <li>Prepare to discuss your qualifications and experience</li>
+  </ol>
+  <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/dmd0876/30min'});return false;" class="calendly-link">Schedule Your Interview Session</a>
+  <span class="step-note">* Interview invitations are granted after successful completion of previous steps</span>
+</div>
+<!-- Calendly link widget end -->
+
+::: {.callout-important}
+## Important Note About Scheduling
+
+Due to limited practical evaluation time slots, we strongly encourage candidates to select the earliest available interview times. Early scheduling helps ensure:
+
+- Quicker progression to the practical evaluation phase
+- Better availability of evaluation slots
+- Faster overall application process
+- More flexibility in scheduling your practical evaluation
+
+*Selecting an early interview slot significantly improves your chances of securing a preferred practical evaluation time.*
+:::
+:::
+
+## Step 7: Practical Evaluation {.numbered}
+
+### Session Availability
+
+Currently, practical evaluation sessions are only available on:
+
+- Limited single sessions on Thursdays
+- Limited single sessions on Fridays
+
+*Please plan accordingly when considering your application timeline and availability.*
+
+::: {.callout-note}
+## Professional Skills Assessment
+
+Selected candidates will be invited to participate in a hands-on evaluation day to:
+
+- Experience our practice culture firsthand
+- Demonstrate clinical skills in a real healthcare setting
+- Interact with our team and patients
+- Showcase your expertise in action
+
+This professional development opportunity:
+
+- Provides real-world clinical experience
+- Offers valuable mentorship and feedback
+- Helps assess team compatibility
+- Is offered as a voluntary evaluation session
+- Functions as an unpaid learning experience
+
+*This practical assessment is a standard part of our evaluation process, allowing both parties to ensure an ideal fit.*
+:::
+
+Contact us today to start your journey with our team!

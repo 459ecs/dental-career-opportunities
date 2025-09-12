@@ -1,0 +1,202 @@
+/* Add custom styles */
+.navbar {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.nav-link {
+    color: #495057;
+}
+
+.nav-link:hover {
+    color: #228be6;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+    color: #212529;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #1a1a1a;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.1em 0.2em;
+    border-radius: 3px;
+    transition: all 0.2s ease-in-out;
+    position: relative;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: #e6f3ff;
+    color: #004499;
+}
+
+a:after {
+    content: "→";
+    margin-left: 0.3em;
+    font-size: 0.9em;
+    opacity: 0.7;
+}
+
+/* Special styling for navigation links */
+.nav-link:after {
+    content: none;
+}
+
+/* Special styling for footer links */
+footer a:after {
+    content: none;
+}
+
+/* Make job position links even more prominent */
+a[href$=".qmd"] {
+    font-size: 1.1em;
+    padding: 0.2em 0.4em;
+    border: 1px solid #0066cc;
+    margin: 0 0.2em;
+}
+
+a[href$=".qmd"]:hover {
+    border-color: #004499;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.quote-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.scenario-card {
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1.5rem;
+}
+
+.scenario-card.negative {
+    border-left: 4px solid #dc3545;
+}
+
+.scenario-card.positive {
+    border-left: 4px solid #28a745;
+}
+
+.scenario-card h3 {
+    color: #343a40;
+    margin-top: 0;
+    font-size: 1.2rem;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.scenario-card .context {
+    color: #495057;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+.scenario-card .quote {
+    background: #f8f9fa;
+    border-radius: 4px;
+    padding: 1rem;
+    margin: 1rem 0;
+    font-style: italic;
+    color: #2c3e50;
+    border-left: 3px solid #6c757d;
+}
+
+.scenario-card.positive .quote {
+    border-left-color: #28a745;
+}
+
+.scenario-card.negative .quote {
+    border-left-color: #dc3545;
+}
+
+.scenario-card .impact {
+    color: #495057;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-top: 1rem;
+    font-weight: 500;
+}
+
+/* Special styling for main job position links under Current Opportunities */
+#current-opportunities a[href$=".qmd"] {
+    display: block;
+    font-size: 1.6em;
+    font-weight: 800;
+    padding: 0.8em 1.2em;
+    margin: 0.8em 0;
+    border: 3px solid #0066cc;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #ffffff, #e6f3ff);
+    box-shadow: 0 4px 8px rgba(0, 102, 204, 0.2);
+    width: 100%;
+    max-width: 600px;
+    text-align: left;
+    color: #004080;
+    letter-spacing: 0.02em;
+    position: relative;
+    overflow: hidden;
+}
+
+#current-opportunities a[href$=".qmd"]:hover {
+    background: linear-gradient(135deg, #e6f3ff, #cce7ff);
+    border-color: #004499;
+    box-shadow: 0 6px 12px rgba(0, 102, 204, 0.3);
+    transform: translateY(-3px) scale(1.02);
+    color: #003366;
+}
+
+#current-opportunities a[href$=".qmd"]:after {
+    float: right;
+    content: "→";
+    font-size: 1.4em;
+    font-weight: 900;
+    opacity: 1;
+    margin-left: 0.5em;
+    position: relative;
+    top: -0.1em;
+}
+
+#current-opportunities a[href$=".qmd"]::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, transparent 0%, rgba(255,255,255,0.2) 50%, transparent 100%);
+    transform: translateX(-100%);
+    transition: transform 0.6s;
+}
+
+#current-opportunities a[href$=".qmd"]:hover::before {
+    transform: translateX(100%);
+}
+
+/* Reset general .qmd link styles */
+a[href$=".qmd"]:not(#current-opportunities a) {
+    font-size: 1em;
+    padding: 0.2em 0.4em;
+    border: 1px solid #0066cc;
+    margin: 0 0.2em;
+    background: none;
+    box-shadow: none;
+    transform: none;
+} 

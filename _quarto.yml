@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!etiquettes/"
+    - "!etiquettes/**"
+
+website:
+  title: "Dental Career Opportunities"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Job Listings"
+        menu:
+          - certified_dental_assistant.qmd
+          - procedural_sedation_nurse.qmd
+          - treatment_coordinator.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true 

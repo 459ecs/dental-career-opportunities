@@ -1,0 +1,84 @@
+name: Publish Quarto Site
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.7.34
+
+      - name: Setup Node.js (for any web dependencies)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Cache Quarto dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.local/share/quarto
+            _freeze
+          key: quarto-${{ hashFiles('_quarto.yml', '**/*.qmd') }}
+          restore-keys: |
+            quarto-
+
+      - name: Render Quarto Site
+        run: |
+          quarto check
+          quarto render
+
+      - name: Publish to Quarto Pub
+        env:
+          QUARTO_PUB_AUTH_TOKEN: ${{ secrets.QUARTO_PUB_AUTH_TOKEN }}
+        run: |
+          echo "Publishing to Quarto Pub..."
+          quarto publish quarto-pub --no-browser --no-prompt --no-render 2>/dev/null || {
+            echo "❌ Quarto Pub publishing failed"
+            exit 1
+          }
+          echo "✅ Successfully published to Quarto Pub"
+
+      - name: Setup GitHub Pages (parallel option)
+        if: always()
+        uses: actions/configure-pages@v4
+
+      - name: Upload to GitHub Pages  
+        if: always()
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+      - name: Deploy to GitHub Pages
+        if: always()
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Verify Deployment
+        if: success()
+        run: |
+          echo "🌐 Site published to:"
+          echo "   Quarto Pub: https://pedodontist.quarto.pub/dental-career-opportunities/"
+          echo "   GitHub Pages: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+          
+      - name: Notify on Failure
+        if: failure()
+        run: |
+          echo "❌ Publishing failed. Check the logs above for details."
+          echo "🔄 You can re-run this workflow from the Actions tab."

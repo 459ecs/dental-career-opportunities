@@ -1,0 +1,21 @@
+# Quarto
+/.quarto/
+_site/
+_freeze/
+.quarto_cache/
+
+# IDE
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Node modules (if using)
+node_modules/
+
+# Environment files
+.env
+.env.local
