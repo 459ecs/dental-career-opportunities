@@ -94,127 +94,6 @@ A team-oriented mentality is fundamental to our success. This includes:
 - Sharing knowledge and experience with colleagues
 - Supporting team members during busy periods or challenging cases
 
-## Office Culture and Expectations
-
-::: {.callout-note appearance="simple"}
-## Examples of Behaviors That Align With Our Values
-
-::: {.scenario-card .positive}
-### Patient Care and Empathy
-::: {.context}
-A dental office staff member listens attentively to a patient's concerns about pain during a procedure, reassuring them by saying:
-:::
-::: {.quote}
-"Thank you for letting us know—your comfort is important to us. Let me check how we can make this more comfortable for you"
-:::
-::: {.impact}
-The staff member then takes immediate steps to address the issue, demonstrating our commitment to patient comfort and proactive care.
-:::
-:::
-
-::: {.scenario-card .positive}
-### Professional Etiquette
-::: {.context}
-A staff member greets every patient warmly and promptly, even while multitasking, saying:
-:::
-::: {.quote}
-"Good morning! How can I help you today?"
-:::
-::: {.impact}
-They ensure the patient feels prioritized and welcomed, maintaining a professional demeanor throughout the interaction while keeping casual conversations with colleagues for private moments.
-:::
-:::
-
-::: {.scenario-card .positive}
-### Team Communication
-::: {.context}
-When a team member notices an issue with another's performance, they approach the colleague directly and kindly, saying:
-:::
-::: {.quote}
-"Hey, I noticed the setup for rooms takes a bit longer sometimes—can I help or share a tip that works for me?"
-:::
-::: {.impact}
-Alternatively, they bring up concerns constructively during team meetings to foster collaborative problem-solving.
-:::
-:::
-
-## Non-Conforming Attitudes {.unnumbered}
-
-::: {.callout-warning appearance="simple"}
-## Examples of Behaviors That Don't Align With Our Values
-
-::: {.quote-grid}
-
-::: {.quote-card .negative}
-### Patient Care and Empathy
-> "It's normal—just tough it out"
-<cite>— Dismissive staff member to a patient in pain</cite>
-
-This approach fails to demonstrate the patient-centered care we prioritize.
-:::
-
-::: {.quote-card .negative}
-### Professional Etiquette
-> "What do you need?"
-<cite>— Unenthusiastic staff member to a waiting patient</cite>
-
-Instead of following the scripted, warm, and professional greeting, the staff member shows disinterest while keeping a patient waiting.
-:::
-
-::: {.quote-card .negative}
-### Team Communication
-> "I can't believe how slow they are with setting up rooms; it's so frustrating to work with them"
-<cite>— Staff member complaining about a colleague</cite>
-
-Instead of addressing issues through proper channels, this creates a negative work environment.
-:::
-
-::: {.quote-card .negative}
-### Shared Responsibility
-> "It's not my job; I've done enough today"
-<cite>— Staff member avoiding shared responsibilities</cite>
-
-This attitude shows lack of team spirit and unwillingness to support colleagues.
-:::
-
-::: {.quote-card .negative}
-### Patient Service
-> "You'll just have to wait like everyone else. We're doing the best we can"
-<cite>— Dismissive response to a concerned parent</cite>
-
-This response lacks empathy and professional courtesy.
-:::
-:::
-:::
-
-
-::: {.scenario-card .positive}
-### Shared Responsibility
-::: {.context}
-At the end of the day, a staff member notices an overflowing trash bin and takes a moment to empty it, thinking:
-:::
-::: {.quote}
-"Let me handle this so the room is ready for tomorrow"
-:::
-::: {.impact}
-They also offer assistance to a busy colleague, saying "I've wrapped up my tasks—can I help you finish up so we can all leave on time?"
-:::
-:::
-
-::: {.scenario-card .positive}
-### Patient Service
-::: {.context}
-When a parent who arrived late expresses frustration about the wait time, a staff member responds empathetically:
-:::
-::: {.quote}
-"I understand how valuable your time is, and I'm sorry for the delay. Let me check on your place in line and see how we can help minimize your wait"
-:::
-::: {.impact}
-This response acknowledges their concerns while maintaining professionalism.
-:::
-:::
-:::
-
 # Required Qualifications
 
 ## Language Proficiency
@@ -232,12 +111,15 @@ Please complete these assessments:
 4. Sedation Key Concepts: [Sedation Quiz](https://quizgecko.com/join?code=YTUBIN)
 
 ## Application Process
-Please visit our [main careers page](index.qmd#application-process) for detailed information about our application process, including:
 
-- Required assessments
-- Application submission guidelines
-- Interview process
-- Knowledge requirements
+::: {.callout-important}
+Please visit our [main careers page](index.qmd) for detailed information about:
+
+- Application process and requirements
+- Office culture and work environment
+- Employee guidelines and policies
+- Work schedule and clinic locations
+:::
 
 # Compensation and Benefits
 
@@ -270,93 +152,4 @@ Our practice offers a unique opportunity to:
 
 ::: {.callout-note}
 If you're passionate about pediatric care and ready to make a difference in children's lives by joining a team that values patient-centered care, we want to hear from you.
-:::
-
-# Employee Guidelines {.appendix}
-
-## Attendance
-Consistent attendance is essential for delivering optimal care to our patients. Punctuality is critical, and absences should be considerate of teammates.
-
-## Work Hours and Location
-
-::: {.callout-important}
-## Physical Presence Requirements
-
-This position requires physical presence at our clinics 2-3 days per week:
-- Currently scheduled for Thursday and Friday (7:00 AM to 4:00 PM)
-- Schedule may change in future based on clinic needs
-- Additional days arranged by mutual agreement
-
-## Clinic Locations
-
-You will work at one or both of our locations:
-- 1233 West Broadway, Vancouver
-- 459 East Columbia Street, New Westminster
-:::
-
-### Weekly Schedule
-
-- Thursday and Friday: 7:00 AM to 4:00 PM (in clinic)
-- Monday through Wednesday: Schedule arranged by mutual agreement
-- Occasional Saturdays: Rotated among team members
-- All hours and lunch breaks must be recorded in the time clock for monthly reconciliation
-
-### Break Schedule
-::: {.callout-note}
-To comply with BC labor code requirements:
-
-- One 30-minute meal break after 5 consecutive hours of work
-- Break is unpaid only if you are completely relieved of duties
-- If required to be available or monitor sedation during break, the break time will be paid
-- Additional breaks for shifts longer than 10 hours will be provided as required by law
-
-Break times must be recorded in the time clock system and coordinated with the clinical team to ensure continuous sedation monitoring coverage. Proper patient care handoff procedures must be followed.
-:::
-
-## Holiday Requests
-- 1-4 years of service: 2 weeks of holiday
-- 5+ years of service: 3 weeks of holiday
-- Clinic closures for dentist holidays are not counted towards personal holiday allowance
-- Employees are encouraged to align their time off with clinic closures if possible
-- Submit requests via email to management
-- Advance notice: 1-2 days off (2-4 weeks); holidays longer than 3 days (6+ weeks)
-- Requests will be considered based on frequency, seniority, and staff availability
-
-## Pay Periods
-Pay is monthly via direct deposit. Payment schedule is posted in the lunchroom.
-
-## Dress Code
-- RN: Scrubs
-- Follow BCCOHP infection control protocols
-- Arrive in street clothes and change into scrubs/business attire at work
-
-## Internet and Personal Communications
-::: {.callout-warning}
-To maintain focus on patient care and professional operations:
-
-- Personal email use is not permitted during work hours
-- Personal phone calls, text messages, and instant messaging are not allowed during work hours
-- A work email account will be provided for all work-related communications
-- All electronic communications should be conducted through official work channels only
-:::
-
-## Cell Phone Use
-Leave personal cell phones in the lunchroom. Use them during lunch breaks only. Provide the office number for family emergencies.
-
-## Operation Monitoring System
-
-::: {.callout-note}
-## Performance Monitoring and Quality Assurance
-
-As part of our commitment to maintaining the highest standards of service, we have comprehensive monitoring systems in place:
-
-- Security cameras are installed throughout the facility for safety and performance review purposes
-- Computer operation activity logs are maintained to ensure proper system usage
-- All electronic communications and system activities are monitored
-- Regular performance reviews incorporate data from these monitoring systems
-- These systems help us:
-  - Ensure compliance with our policies and guidelines
-  - Identify opportunities for improvement
-  - Maintain security and professional standards
-  - Celebrate outstanding work and best practices
 :::

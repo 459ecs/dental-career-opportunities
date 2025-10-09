@@ -35,7 +35,7 @@ Click on any position above to view detailed information about:
 - **Professional Growth**: Comprehensive development programs and ongoing educational opportunities
 - **Competitive Compensation**: Salary that recognizes your specialized skills and dedication
 - **Supportive Environment**: Collaborative team culture where your contributions are valued
-- **Modern Facilities**: State-of-the-art clinic in Vancouver, with New Westminster location opening Q4 2025
+- **Modern Facilities**: State-of-the-art clinics in Vancouver and New Westminster
 - **Flexible Benefits**: Customizable package tailored to your individual needs
 :::
 
@@ -175,13 +175,12 @@ Choose your position to view the required assessments:
 ::: {.callout-note}
 ## Schedule Details
 
-- **2025**: Primarily Thursdays and Fridays at our Vancouver location throughout most of the year
-- **2026**: Operations beginning at both Vancouver and New Westminster locations
-- **Flexibility**: Various scheduling options including alternating weekly schedules
+- **Current Schedule**: 1-2 days per week at Vancouver clinic and 1-2 days per week at New Westminster clinic
+- **Flexibility**: Various scheduling options to accommodate work-life balance
 
 ### Clinic Locations
 - **Vancouver**: 1233 West Broadway
-- **New Westminster**: 459 East Columbia Street (opening Q4 2025, operations beginning 2026)
+- **New Westminster**: 459 East Columbia Street
 :::
 
 ### Our Values and Innovation {.unnumbered}
