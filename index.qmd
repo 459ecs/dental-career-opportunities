@@ -405,6 +405,7 @@ Practical evaluation sessions are currently available on limited slots:
 - **Fridays** — Limited single sessions
 
 *Please plan your schedule accordingly. Early scheduling helps secure your preferred evaluation time slot.*
+:::
 
 ::: {.callout-note}
 ## Join Our Team on Evaluation Day
@@ -427,6 +428,7 @@ During this final evaluation, you will:
 **Progress:** ✓ Step 7 Complete — Congratulations! You've successfully completed all evaluation steps and are now part of our exclusive pediatric dental care team!
 
 *This practical assessment is the final piece of our collaborative evaluation process, ensuring both parties are confident in an ideal fit.*
+:::
 :::
 
 ---
