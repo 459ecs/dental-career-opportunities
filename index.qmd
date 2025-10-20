@@ -223,11 +223,12 @@ After we review your application and references, you'll complete a position-spec
 
 - **Current Schedule**: 1-2 days per week at Vancouver clinic and 1-2 days per week at New Westminster clinic
 - **Flexibility**: Various scheduling options to accommodate work-life balance
+:::
 
 ### Clinic Locations
+
 - **Vancouver**: 1233 West Broadway
 - **New Westminster**: 459 East Columbia Street
-:::
 
 ### Our Values and Innovation {.unnumbered}
 
@@ -276,7 +277,8 @@ Our selective approach ensures optimal outcomes by:
 ::: {.callout-important}
 ## Our Unique Approach: Visual Knowledge Sharing
 
-What sets us apart is our commitment to visual documentation and knowledge sharing. As part of our team, you'll contribute to:
+What sets us apart is our commitment to visual documentation and knowledge sharing. As part of our team, you'll contribute to innovative initiatives that preserve and share best practices across our practice.
+:::
 
 ### Video Documentation Initiative
 
@@ -307,7 +309,6 @@ This innovative approach helps us:
 - Maintain consistent service excellence
 
 *Our commitment to visual documentation sets us apart in pediatric dental care, ensuring our high standards are maintained and shared effectively.*
-:::
 
 ::: {.callout-important}
 ## Before Proceeding
