@@ -316,7 +316,7 @@ Please review the above information carefully. Understanding our practice philos
 
 ## Step 6: Schedule Your Interview {#step-6}
 
-::: {.column-body}
+:::: {.column-body}
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
@@ -388,7 +388,7 @@ Due to limited practical evaluation time slots, we strongly encourage candidates
 
 *Selecting an early interview slot significantly improves your chances of securing a preferred practical evaluation time.*
 :::
-:::
+::::
 
 ## Step 7: Attend Final Hands-On Evaluation {#step-7}
 
