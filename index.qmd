@@ -55,6 +55,24 @@ Join a practice with nearly 20 years of specialized pediatric care experience. W
 We are actively seeking qualified candidates for all posted positions. Listings are removed immediately when filled.
 :::
 
+## Your Path to Joining Our Team {.unnumbered}
+
+::: {.callout-tip}
+## 7-Step Application Process
+
+Follow these steps to join our specialized dental care team:
+
+1. **Create SmallTalk2Me Account** — Set up your account and get ready to showcase your communication skills
+2. **Complete IELTS Speaking Assessment (Level 8.5+)** — Demonstrate native-level English proficiency through our structured speaking test
+3. **Gather Your Application Materials** — Prepare your resume, references, and work schedule preferences
+4. **Submit Your Application Package** — Send everything to our Recruitment Coordinator for review
+5. **Complete Position-Specific Knowledge Assessment** — Show your expertise in your chosen role (multiple attempts available)
+6. **Schedule Your Interview** — Book your session after passing the previous steps — you're 70% of the way there!
+7. **Attend Final Hands-On Evaluation** — Experience our practice firsthand and showcase your clinical skills — nearly there!
+
+After completing all 7 steps, you'll be part of our exclusive pediatric dental care team!
+:::
+
 ## Getting Started {.unnumbered}
 
 **Ready to apply?** Most candidates can proceed directly to our **English Assessment** below.
@@ -70,16 +88,25 @@ We are actively seeking qualified candidates for all posted positions. Listings 
 *Experienced professionals may discuss alternative arrangements or express concerns about the assessment process.*
 :::
 
-## Assessment Phase {.unnumbered}
+## Step 1: Create SmallTalk2Me Account {#step-1}
 
-### English Communication Assessment {.unnumbered}
+::: {.callout-tip}
+## Getting Started with Your Assessment
+
+1. Visit [SmallTalk2Me](https://app.smalltalk2.me/){target="_blank"} and create a new account with your email address
+2. Verify your email and log in
+3. You're now ready for Step 2!
+
+**Progress:** ✓ Step 1 Complete — You've taken the first step toward joining our team!
+:::
+
+## Step 2: Complete IELTS Speaking Assessment (Level 8.5+) {#step-2}
 
 ::: {.callout-info}
 ## How to Complete Your Speaking Assessment
 
-1. Visit [SmallTalk2Me](https://app.smalltalk2.me/){target="_blank"} and create a new account.
-2. After logging in, look for the **[IELTS Speaking Level Test](https://app.smalltalk2.me/ielts)** option.
-3. Complete the speaking test - you will be asked to:
+1. After logging in to SmallTalk2Me, look for the **[IELTS Speaking Level Test](https://app.smalltalk2.me/ielts)** option
+2. Complete the speaking test - you will be asked to:
 
    - Speak into your microphone.
    - Respond to prompts & answer questions verbally with:
@@ -100,9 +127,11 @@ We are actively seeking qualified candidates for all posted positions. Listings 
 
    *Our team values honesty and transparency and encourages all applicants to share their experiences fully. Please do not gloss over any information, especially the negative aspects, as we may conduct additional reference checks on your past employment history.*
    :::
-   
-4. You will receive an IELTS Speaking Level score (from 0 to 9) for your speaking ability.
-5. Share your speaking assessment result link with us.
+
+3. You will receive an IELTS Speaking Level score (from 0 to 9) for your speaking ability
+4. Share your speaking assessment result link with our Recruitment Coordinator
+
+**Progress:** ✓ Step 2 Complete — Congratulations! You've demonstrated native-level communication skills. You're now qualified to proceed to Step 3!
 :::
 
 ## Excellence Standards for Our Exclusive Team
@@ -131,28 +160,43 @@ You can copy the link from the browser address bar when you're on the assessment
 Don't feel discouraged if you cannot pass the first time. We encourage you to work on improving your speaking skills and reapplying in the future if the position is still open. Wishing you the best of luck!
 :::
 
-Share your speaking assessment result link with Ricky (Recruitment Coordinator)
+## Step 3: Gather Your Application Materials {#step-3}
 
-## Submit Your Application {.unnumbered}
+::: {.callout-note}
+## What You'll Need to Prepare
 
-::: {.callout-tip}
-## Submit Your Application
-Send to dmd0876@gmail.com:
+Before you can submit your application, gather the following materials:
 
-1. Your resume
-2. At least two (2) professional references that we can contact immediately
-3. SmallTalk2Me [IELTS Speaking Level Test](https://app.smalltalk2.me/ielts) assessment result link (**Level 8.5** in *IELTS Speaking*)
-4. Explain your preferred work schedule
-5. Position title in email subject
+1. **Your Resume** — Highlighting your relevant experience and qualifications
+2. **At Least 2 Professional References** — Contact information for people who can speak to your work experience
+3. **Your Preferred Work Schedule** — Let us know your availability (2-3 days per week options available)
+4. **Your IELTS Assessment Report Link** — Make sure you have the URL link saved from Step 2
+
+**Progress:** ✓ Step 3 Complete — You're now 40% of the way through the application process!
 :::
 
-## Role-Specific Knowledge Assessment {.unnumbered}
+## Step 4: Submit Your Application Package {#step-4}
 
-### Position-Specific Assessments {.unnumbered}
+::: {.callout-tip}
+## Your Complete Application Package
+
+Email everything below to **dmd0876@gmail.com** with the position title in the subject line:
+
+1. Your resume
+2. Contact information for at least 2 professional references
+3. Your SmallTalk2Me [IELTS Speaking Level Test](https://app.smalltalk2.me/ielts) assessment report link (**Level 8.5+** in *IELTS Speaking*)
+4. Your preferred work schedule and any scheduling constraints
+5. Position title in email subject
+
+**Progress:** ✓ Step 4 Complete — Your application has been submitted! You're 50% through the process. Our team will review your materials and contact your references.
+:::
+
+## Step 5: Complete Position-Specific Knowledge Assessment {#step-5}
 
 ::: {.callout-important}
-## Required Knowledge Assessments
-Choose your position to view the required assessments:
+## Show Your Expertise
+
+After we review your application and references, you'll complete a position-specific knowledge assessment. Choose your position to view the required assessments:
 
 - [Certified Dental Assistant Knowledge Assessment](certified_dental_assistant.qmd#knowledge-assessment)
 - [Procedural Sedation Nurse Knowledge Assessment](procedural_sedation_nurse.qmd#knowledge-assessment)
@@ -160,12 +204,14 @@ Choose your position to view the required assessments:
 :::
 
 ::: {.callout-tip}
-## Join Our Knowledge Excellence Initiative
-- These assessments ensure you'll thrive in our advanced practice environment
-- Open-book format allows you to demonstrate mastery at your own pace
-- Multiple attempts available - we support your success
-- Perfect scores reflect the exceptional standards that make our practice renowned
-- Comprehensive knowledge ensures immediate contribution to our specialized team
+## Knowledge Excellence Initiative
+
+- **Open-Book Format** — Demonstrate mastery at your own pace
+- **Multiple Attempts** — We support your success with unlimited attempts
+- **Comprehensive Coverage** — Show the knowledge that makes our practice exceptional
+- **Your Pathway** — Passing this assessment unlocks [Step 6](#step-6) and brings you 70% of the way to joining our team!
+
+**Progress:** ✓ Step 5 Complete — You've demonstrated the specialized knowledge essential for our practice. You're now ready for your interview!
 :::
 
 ## Understanding Our Practice {.unnumbered}
@@ -268,7 +314,7 @@ This innovative approach helps us:
 Please review the above information carefully. Understanding our practice philosophy, values, and unique approach to knowledge sharing is essential for all team members. You will be expected to actively participate in and contribute to these initiatives.
 :::
 
-## Interview Scheduling {.unnumbered}
+## Step 6: Schedule Your Interview {#step-6}
 
 ::: {.column-body}
 <!-- Calendly link widget begin -->
@@ -319,14 +365,14 @@ Please review the above information carefully. Understanding our practice philos
 }
 </style>
 <div class="interview-step">
-  <span class="step-label">Schedule Your Interview:</span>
+  <span class="step-label">You're 70% of the way there! Schedule Your Interview:</span>
   <ol class="step-sequence">
-    <li>Ensure you've passed the English Speaking Assessment</li>
-    <li>Confirm you've reviewed and are comfortable with all knowledge requirements</li>
-    <li>Prepare to discuss your qualifications and experience</li>
+    <li>✓ Passed the English Speaking Assessment (Level 8.5+)</li>
+    <li>✓ Completed Position-Specific Knowledge Assessment</li>
+    <li>Prepare to discuss your qualifications and vision for our practice</li>
   </ol>
   <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/dmd0876/30min'});return false;" class="calendly-link">Schedule Your Interview Session</a>
-  <span class="step-note">* Interview invitations are granted after successful completion of previous steps</span>
+  <span class="step-note">* Your interview slot secures your position in our evaluation pipeline</span>
 </div>
 <!-- Calendly link widget end -->
 
@@ -344,36 +390,53 @@ Due to limited practical evaluation time slots, we strongly encourage candidates
 :::
 :::
 
-## Final Assessment {.unnumbered}
-
-### Session Availability
-
-Currently, practical evaluation sessions are only available on:
-
-- Limited single sessions on Thursdays
-- Limited single sessions on Fridays
-
-*Please plan accordingly when considering your application timeline and availability.*
+## Step 7: Attend Final Hands-On Evaluation {#step-7}
 
 ::: {.callout-note}
-## Professional Skills Assessment
+## Your Path to Team Membership
 
-Selected candidates will be invited to participate in a hands-on evaluation day to:
+After your successful interview, selected candidates are invited to our final evaluation day. This is your opportunity to showcase your clinical excellence in our practice!
 
-- Experience our practice culture firsthand
-- Demonstrate clinical skills in a real healthcare setting
-- Interact with our team and patients
-- Showcase your expertise in action
+**Session Availability:**
 
-This professional development opportunity:
+Practical evaluation sessions are currently available on limited slots:
 
-- Provides real-world clinical experience
-- Offers valuable mentorship and feedback
-- Helps assess team compatibility
-- Is offered as a voluntary evaluation session
-- Functions as an unpaid learning experience
+- **Thursdays** — Limited single sessions
+- **Fridays** — Limited single sessions
 
-*This practical assessment is a standard part of our evaluation process, allowing both parties to ensure an ideal fit.*
+*Please plan your schedule accordingly. Early scheduling helps secure your preferred evaluation time slot.*
+
+::: {.callout-note}
+## Join Our Team on Evaluation Day
+
+During this final evaluation, you will:
+
+- Experience our practice culture firsthand — see what daily work is really like
+- Demonstrate your clinical skills in our real healthcare setting
+- Interact with our team, patients, and Dr. Phoebe Tsang directly
+- Showcase your expertise and commitment to pediatric excellence
+
+**What Makes This Special:**
+
+- Real-world clinical experience in our specialized practice
+- Valuable mentorship and feedback from our experienced team
+- Direct assessment of team compatibility and cultural fit
+- Opportunity to confirm this is the right fit for you
+- Unpaid learning experience that counts toward your success
+
+**Progress:** ✓ Step 7 Complete — Congratulations! You've successfully completed all evaluation steps and are now part of our exclusive pediatric dental care team!
+
+*This practical assessment is the final piece of our collaborative evaluation process, ensuring both parties are confident in an ideal fit.*
 :::
 
-Contact us today to start your journey with our team!
+---
+
+## Ready to Apply?
+
+Contact our Recruitment Coordinator, **Ricky Chan**, with any questions:
+
+- **Phone/Text:** 604-300-8878
+- **Email:** dmd0876@gmail.com
+- **Indeed.com Messages** — Direct messaging available
+
+Start your journey toward joining our specialized dental care team today!
