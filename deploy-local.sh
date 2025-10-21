@@ -14,11 +14,8 @@ echo "📡 Publishing to Quarto Pub..."
 echo "(Note: Publishing will run silently. Check Quarto Pub in ~30 seconds to verify updates)"
 echo ""
 
-# Get token from 1Password
-QUARTO_PUB_AUTH_TOKEN=$(op read "op://Employee/ycy5ki32hkoaqymrnc4w46i6tm/password" 2>/dev/null) || {
-    # Fallback to direct token if 1Password fails
-    QUARTO_PUB_AUTH_TOKEN="qpa_4vx5aKITzOxuB3myIShyVnAyNty7JkVGV0rmpHJHTNs02kzcG0H0zqJjXRddvTCB"
-}
+# Token for Dental Career Opportunities project (pedodontist_02 account)
+QUARTO_PUB_AUTH_TOKEN="qpa_WYyxNjGKNDR4OZPHVYCOmvdjv4bVFbeSdLkVl46oQpKFacGnoqgC5WKPAoOU8LzR"
 
 export QUARTO_PUB_AUTH_TOKEN
 

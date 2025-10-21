@@ -154,21 +154,19 @@ Each position page follows a consistent template:
 The site publishes to Quarto Pub, which requires authentication. Credentials are stored in 1Password and accessed via `op` CLI.
 
 **Credential Source**: 1Password Employee vault
-**Item**: Quarto Pub Phoebe dmd0876@gmail.com (ID: `ycy5ki32hkoaqymrnc4w46i6tm`)
+**Item**: Dental Career Opportunities project (pedodontist_02 account)
+**Project ID**: `7ef68eb1-d004-4d76-b4b0-9a67e5781fa9`
 
 ### Token Retrieval
 
-The Quarto Pub token is stored in the 1Password item's notes field (not the password field).
+The Quarto Pub token for this project is stored in 1Password (Account: pedodontist_02).
 
 **Token Value** (for reference):
 ```
-qpa_4vx5aKITzOxuB3myIShyVnAyNty7JkVGV0rmpHJHTNs02kzcG0H0zqJjXRddvTCB
+qpa_WYyxNjGKNDR4OZPHVYCOmvdjv4bVFbeSdLkVl46oQpKFacGnoqgC5WKPAoOU8LzR
 ```
 
-**To retrieve via 1Password CLI**:
-```bash
-op read "op://Employee/ycy5ki32hkoaqymrnc4w46i6tm/password"
-```
+This token has publish permissions for the Dental Career Opportunities project at `https://pedodontist.quarto.pub/dental-career-opportunities/`.
 
 ### Publishing Methods
 
