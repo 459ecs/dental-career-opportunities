@@ -39,17 +39,12 @@ jobs:
           quarto render
           echo "✅ Site rendered successfully"
 
-      - name: Install Doppler CLI
-        run: |
-          (curl -Ls https://cli.doppler.com/install.sh || wget -qO- https://cli.doppler.com/install.sh) | sudo sh
-          echo "✅ Doppler CLI installed"
-
       - name: Publish to Quarto Pub
         env:
-          DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
+          QUARTO_PUB_AUTH_TOKEN: ${{ secrets.QUARTO_PUB_AUTH_TOKEN }}
         run: |
-          echo "🚀 Publishing to Quarto Pub via Doppler..."
-          doppler run --project claude-config --config prd -- quarto publish quarto-pub --no-browser --no-prompt --no-render 2>&1 || {
+          echo "🚀 Publishing to Quarto Pub..."
+          quarto publish quarto-pub --no-browser --no-prompt --no-render 2>&1 || {
             echo "❌ Quarto Pub publishing failed"
             exit 1
           }
