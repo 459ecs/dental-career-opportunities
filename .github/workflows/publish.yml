@@ -39,6 +39,11 @@ jobs:
           quarto render
           echo "✅ Site rendered successfully"
 
+      - name: Install Doppler CLI
+        run: |
+          (curl -Ls https://cli.doppler.com/install.sh || wget -qO- https://cli.doppler.com/install.sh) | sh
+          echo "✅ Doppler CLI installed"
+
       - name: Publish to Quarto Pub
         env:
           DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
