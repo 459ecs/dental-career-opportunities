@@ -41,10 +41,10 @@ jobs:
 
       - name: Publish to Quarto Pub
         env:
-          QUARTO_PUB_AUTH_TOKEN: ${{ secrets.QUARTO_PUB_AUTH_TOKEN }}
+          DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
         run: |
-          echo "🚀 Publishing to Quarto Pub..."
-          quarto publish quarto-pub --no-browser --no-prompt --no-render 2>/dev/null || {
+          echo "🚀 Publishing to Quarto Pub via Doppler..."
+          doppler run --project claude-config --config prd -- quarto publish quarto-pub --no-browser --no-prompt --no-render 2>&1 || {
             echo "❌ Quarto Pub publishing failed"
             exit 1
           }
