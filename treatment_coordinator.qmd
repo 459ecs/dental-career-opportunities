@@ -64,6 +64,11 @@ Your analytical skills enable you to navigate challenging situations effectively
 ### Technical Aptitude
 Strong computer skills are fundamental to this role, and previous experience with dental practice management software is particularly valuable. Your technical proficiency helps ensure smooth operations and efficient patient care coordination.
 
+**Software & Tools You'll Use:**
+- [Curve Dental](https://www.curvedental.com/dental-scheduling-software) — Practice management and scheduling
+- Google Workspace (Sheets, Docs, Drive)
+- Gmail
+
 ### Collaborative Spirit
 Your team-oriented approach strengthens our practice culture. You understand that successful patient care requires seamless coordination between administrative and clinical teams, and you excel at facilitating this collaboration.
 
