@@ -65,6 +65,7 @@ Your analytical skills enable you to navigate challenging situations effectively
 Strong computer skills are fundamental to this role, and previous experience with dental practice management software is particularly valuable. Your technical proficiency helps ensure smooth operations and efficient patient care coordination.
 
 **Software & Tools You'll Use:**
+
 - [Curve Dental](https://www.curvedental.com/dental-scheduling-software) — Practice management and scheduling
 - Google Workspace (Sheets, Docs, Drive)
 - Gmail
